@@ -16,4 +16,4 @@ function range(from, to)
     return rangeArr;
 }
 
-console.log(range(1, 5));
+console.log(range(0, 0));
